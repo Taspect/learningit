@@ -7,7 +7,7 @@
 
 *********************************************/
 
-void man()
+void main()
 {
 
 	const unsigned char cRunMap[] = {
